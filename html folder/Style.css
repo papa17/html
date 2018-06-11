@@ -1,43 +1,43 @@
 
-.Pictures  { 
+.Pictures  {
 		background-repeat: no-repeat;
 		text-align: center;
 	}
-			
-		
-		
+
+
+
 .align-botright	{
-	 
+
     position: absolute;
     bottom: 0px;
     right: 0px;
-	
+
 	}
-	
+
 .button	{
-	
+
 	height: 70px;
     width: 170px;
 	color: blue ;
 	font-size:1.em;
 	border-radius: 15px;
 	text-align:center;
-	
-	
+
+
 }
 
 .button:hover	{
-	
+
 	height: 150px;
     width: 200px;
 	color: red;
 	background-color: black;
-	
+
 }
 
 
 .Home {
-background-image: url("Picture/smiteschoosingscreen.jpg"); 
+background-image: url("Picture/smiteschoosingscreen.jpg");
     background-repeat: no-repeat;
 	text-align: center;
 }
@@ -45,14 +45,46 @@ background-image: url("Picture/smiteschoosingscreen.jpg");
 .Home table {
     width: 100%;
     color: white;
-	
+
 	}
-   
+
    .lose {
-   background-image: url("Picture/deafetscreen.jpg"); 
+   background-image: url("Picture/deafetscreen.jpg");
     background-repeat: no-repeat;
 	text-align: center;
 	background-size:cover;
-	
-	
+
+
    }
+
+	 .option {
+	 background-image: url("Picture/Homebase.jpg");
+	 background-repeat: no-repeat;
+text-align: center;
+background-size:cover;
+
+		}
+
+		.bluebuff {
+ 	 background-image: url("Picture/Bluebuff.jpg");
+ 	 background-repeat: no-repeat;
+ text-align: center;
+ background-size:cover;
+
+ }
+
+ .redbuff {
+ background-image: url("Picture/redbuff.png");
+ background-repeat: no-repeat;
+ text-align: center;
+ background-size:cover;
+
+ }
+
+ .fight {
+ background-image: url("Picture/fight.jpg");
+ background-repeat: no-repeat;
+ text-align: center;
+ background-size:cover;
+
+ }
